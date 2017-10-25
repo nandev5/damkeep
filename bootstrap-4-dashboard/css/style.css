@@ -13,7 +13,8 @@ h3, h4, h5, h6 {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
 a, a:visited {
-  color: #7376df; }
+  color: #7376df;
+margin-bottom: 25px;}
 
 a:hover, a:focus, a:active {
   color: #6365d2;
